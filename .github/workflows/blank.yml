@@ -15,4 +15,5 @@ jobs:
       - name: 'try to modify this in your fork, then send a PR'
         run: |
           echo This is safe shit
-          #echo This is dangerous shit
+          echo This is dangerous shit
+          echo Don't do this!
